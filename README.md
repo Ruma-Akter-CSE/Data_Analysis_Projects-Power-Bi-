@@ -39,5 +39,8 @@ Includes buttons like Dashboard and Details for easy navigation between differen
 - User-Friendly Visuals: Clear and intuitive charts make complex data easy to interpret.
 - Correlations and Trends: Provides actionable insights through metrics like correlation coefficient and sales trends over time.
 
-## Order Salse Dashboard 2
+## Order Salse Dashboard 
 ![Dashboard](order_sales1.JPG)
+
+## Order Sales Dashboard 2nd page 
+![Dashboard](order_sales2.JPG)
