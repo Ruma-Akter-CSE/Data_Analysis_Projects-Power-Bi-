@@ -1,5 +1,4 @@
 # Power BI Dashboard
-# Table of content:
 
 ## Sales Dashboard
 ![Dashboard](Dash_img1.JPG)
@@ -33,11 +32,12 @@ Enables users to select a specific date range for analysis.
 This feature allows for time-based insights, such as analyzing sales during a promotional period.
 8. Navigation Panel:
 Includes buttons like Dashboard and Details for easy navigation between different sections of the report.
+
 # Key Features
--Real-Time Data Insights: The dashboard updates dynamically based on the latest sales data.
--Interactive Filtering: Users can filter data by date range or specific categories for detailed analysis.
--User-Friendly Visuals: Clear and intuitive charts make complex data easy to interpret.
--Correlations and Trends: Provides actionable insights through metrics like correlation coefficient and sales trends over time.
+- Real-Time Data Insights: The dashboard updates dynamically based on the latest sales data.
+- Interactive Filtering: Users can filter data by date range or specific categories for detailed analysis.
+- User-Friendly Visuals: Clear and intuitive charts make complex data easy to interpret.
+- Correlations and Trends: Provides actionable insights through metrics like correlation coefficient and sales trends over time.
 
 ## Superstore Dashboard
-![Dashboard](Dashboard1.JPG)
+![Dashboard](order_sales1.JPG)
