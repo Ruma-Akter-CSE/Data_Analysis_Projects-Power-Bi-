@@ -2,7 +2,7 @@
 # Table of content:
 
 ## Sales Dashboard
-![Dashboard](Sales_Dashboard - Power Bi.JPG)
+![Dashboard](Dash_img1.JPG)
 
 # Dashboard Description
 This dashboard serves as a comprehensive tool for tracking sales performance. It provides a high-level view of critical metrics, enabling users to quickly identify trends, high-performing products, and valuable customers. With its interactive elements, users can drill down into specific time periods and categories, making it an effective tool for data-driven decision-making. The use of diverse visualizations ensures complex data is presented clearly and intuitively.
