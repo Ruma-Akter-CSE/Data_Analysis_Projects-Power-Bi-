@@ -43,4 +43,4 @@ Includes buttons like Dashboard and Details for easy navigation between differen
 ![Dashboard](order_sales1.JPG)
 
 ## Order Sales Dashboard 2nd page 
-![Dashboard](order_sales2.JPG)
+![Dashboard](Order_sales2.JPG)
