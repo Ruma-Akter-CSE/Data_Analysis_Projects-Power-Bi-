@@ -42,5 +42,16 @@ Includes buttons like Dashboard and Details for easy navigation between differen
 ## 2. Order Salse Dashboard 
 ![Dashboard](order_sales1.JPG)
 
+The Sales Dashboard provides a comprehensive overview of sales performance using multiple visualizations:
+
+1. KPIs: Displays key metrics including the average unit price (20.31), total units sold (43), total representatives (11), and total items (5).
+2. Month-wise Total Sales: A line chart showing sales trends across months, highlighting peak performance in July.
+3. Representatives by Sales: A bar chart ranking representatives by their total sales, with the top performer achieving 174 units.
+4. Percentage of Sum Unit Price by Region: A pie chart indicating regional contribution to total sales—East leads with 49.52%.
+5. Sum of Unit Price and Units by Item: A horizontal bar chart comparing the unit price and sales volume for each product category.
+6. Correlation Analysis: A scatter plot analyzing the relationship between units sold and unit prices, revealing potential trends.
+   
+This dashboard offers a clear, data-driven snapshot for quick decision-making.
+
 ## 2.1 Order Sales Dashboard 2nd page 
 ![Dashboard](Order_sales2.JPG)
