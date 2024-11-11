@@ -55,3 +55,21 @@ This dashboard offers a clear, data-driven snapshot for quick decision-making.
 
 ## 2.1 Order Sales Dashboard 2nd page 
 ![Dashboard](Order_sales2.JPG)
+
+This Sales Dashboard offers a detailed view of performance metrics through various visualizations:
+
+1. KPIs: Key indicators include an average unit price of 20.31, total units sold (43), total representatives (11), and total items (5).
+2. Average Unit Price by Item: A bar chart showcasing the average price per item, with the "Desk" category having the highest value.
+3. Quarter-wise Sales: A bar chart displaying quarterly sales distribution, with a significant contribution in Q3 2014 (49%).
+5. Top 5 Representatives: A donut chart highlighting the top sales performers, with Richard leading (31.28%).
+6. Sum of Unit Price by Bins: A histogram representing the count and distribution of unit prices across bins.
+7. Units by Item and Region: A clustered bar chart comparing item sales across regions (Central, East, West), showing significant sales for "Pencil" in East.
+
+This dashboard provides valuable insights into sales distribution, representative performance, and regional sales trends.
+
+
+
+
+
+
+
