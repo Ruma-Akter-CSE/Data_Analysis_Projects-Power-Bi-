@@ -4,9 +4,11 @@
 ![Dashboard](Dash_img1.JPG)
 
 # Dashboard Description
+
 This dashboard serves as a comprehensive tool for tracking sales performance. It provides a high-level view of critical metrics, enabling users to quickly identify trends, high-performing products, and valuable customers. With its interactive elements, users can drill down into specific time periods and categories, making it an effective tool for data-driven decision-making. The use of diverse visualizations ensures complex data is presented clearly and intuitively.
 
 # Features
+
 1. Key Performance Indicators (KPIs):
 Total Quantity (420): Displays the total number of products sold.
 Total Sales Amount (11M): Shows the total revenue generated.
@@ -33,7 +35,7 @@ This feature allows for time-based insights, such as analyzing sales during a pr
 8. Navigation Panel:
 Includes buttons like Dashboard and Details for easy navigation between different sections of the report.
 
-# Key Features
+# Key Features:
 - Real-Time Data Insights: The dashboard updates dynamically based on the latest sales data.
 - Interactive Filtering: Users can filter data by date range or specific categories for detailed analysis.
 - User-Friendly Visuals: Clear and intuitive charts make complex data easy to interpret.
@@ -64,6 +66,7 @@ This Sales Dashboard offers a detailed view of performance metrics through vario
 5. Top 5 Representatives: A donut chart highlighting the top sales performers, with Richard leading (31.28%).
 6. Sum of Unit Price by Bins: A histogram representing the count and distribution of unit prices across bins.
 7. Units by Item and Region: A clustered bar chart comparing item sales across regions (Central, East, West), showing significant sales for "Pencil" in East.
+
 
 This dashboard provides valuable insights into sales distribution, representative performance, and regional sales trends.
 
