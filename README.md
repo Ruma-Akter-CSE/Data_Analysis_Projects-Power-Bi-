@@ -1,6 +1,6 @@
 # Power BI Dashboard
 
-**## 1. Sales Dashboard**
+## 1. Sales Dashboard
 ![Dashboard](Dash_img1.JPG)
 
 # Dashboard Description
