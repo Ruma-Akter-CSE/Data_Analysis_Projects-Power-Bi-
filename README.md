@@ -33,7 +33,7 @@ This helps in understanding sales trends and identifying peak sales periods.
 Enables users to select a specific date range for analysis.
 This feature allows for time-based insights, such as analyzing sales during a promotional period.
 8. Navigation Panel:
-Includes buttons like Dashboard and Details for easy navigation between different sections of the report.
+Includes buttons like Dashboard and Details for easy navigation between different sections of the report
 
 # Key Features:
 - Real-Time Data Insights: The dashboard updates dynamically based on the latest sales data.
