@@ -71,7 +71,7 @@ This Sales Dashboard offers a detailed view of performance metrics through vario
 This dashboard provides valuable insights into sales distribution, representative performance, and regional sales trends.
 
 
-## 2.2 Order Sales Dashboard 2nd page 
+## 2.2 Order Sales Dashboard (lookerstudio) 2nd page 
 ![Dashboard](lookerstudio.JPG)
 
 
