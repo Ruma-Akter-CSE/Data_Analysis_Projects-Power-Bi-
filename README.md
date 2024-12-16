@@ -75,6 +75,9 @@ This dashboard provides valuable insights into sales distribution, representativ
 ![Dashboard](lookerstudio.JPG)
 
 
+## google sheet dashboard  https://docs.google.com/spreadsheets/d/1WawyRHixvEvPI_0xHEMbGzxvio9Zavfr7Drr8dWzOYs/edit?usp=sharing
+
+
 
 
 
