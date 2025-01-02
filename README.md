@@ -1,4 +1,6 @@
 # Power BI Dashboard
+## 0. Dengue Analysis Dashboard
+![Dashboard](dangue_report.JPG)
 
 ## 1. Sales Dashboard
 ![Dashboard](Dash_img1.JPG)
