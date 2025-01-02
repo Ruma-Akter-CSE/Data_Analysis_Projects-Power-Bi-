@@ -2,6 +2,14 @@
 ## 0. Dengue Analysis Dashboard
 ![Dashboard](dangue_report.JPG)
 
+# Dashboard Description:
+This Dengue Analysis Dashboard offers a detailed breakdown of data related to dengue cases among 1,000 participants.
+
+1. Total Positive Cases: 533, with NS1, IgG, and IgM positivity rates of 51.85%, 53.25%, and 47.45%, respectively.
+2. Demographics: Cases are distributed across age groups, with the highest concentration in the 40-49 age range. Gender-wise, males account for 281 cases (52.7%), and females account for 252 cases (47.3%).
+3. Geographical Distribution: The dashboard identifies dengue hotspots, with Jauharabad having the highest number of cases.
+4. Living Conditions: Cases are categorized by area type (developed vs. underdeveloped) and house type (building, tin-shed, or other), revealing higher incidences in underdeveloped areas and "other" house types.
+
 ## 1. Sales Dashboard
 ![Dashboard](Dash_img1.JPG)
 
